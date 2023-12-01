@@ -4,5 +4,5 @@
  *  initialized methods that determine the cube's surface area and volume.
  */
 
-public class ChpThreeFig4{
+public class ChpThreeFig4 extends ChpThreeFig3{
 }
